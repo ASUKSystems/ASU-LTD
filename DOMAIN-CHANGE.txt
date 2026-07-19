@@ -1,0 +1,12 @@
+SEASCAPE HOLIDAYS — DOMAIN CHANGE
+
+The current test address is asultd.com.
+
+When the permanent domain is ready, replace “https://asultd.com” in:
+- every HTML canonical and social URL
+- sitemap.xml
+- robots.txt
+
+Then replace the content of CNAME with the new domain name.
+
+The public website contains no references to its deployment infrastructure.
