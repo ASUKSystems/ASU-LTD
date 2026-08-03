@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630">
+      <stop stop-color="#07111f"/>
+      <stop offset="1" stop-color="#03070c"/>
+    </linearGradient>
+    <linearGradient id="g" x1="92" y1="84" x2="1080" y2="554">
+      <stop stop-color="#64c8ff"/>
+      <stop offset="1" stop-color="#78ffd6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1060" cy="80" r="260" fill="#64c8ff" opacity=".08"/>
+  <circle cx="80" cy="620" r="260" fill="#78ffd6" opacity=".06"/>
+  <rect x="72" y="72" width="1056" height="486" rx="32" fill="#0d1d31" opacity=".82" stroke="#7aa9c7" stroke-opacity=".22"/>
+  <text x="110" y="145" fill="#78ffd6" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">ASUKSYSTEMS · ORIGINAL THEORY</text>
+  <text x="110" y="245" fill="#f4f7fb" font-family="Arial, sans-serif" font-size="57" font-weight="800">Intergenerational Goal</text>
+  <text x="110" y="315" fill="#f4f7fb" font-family="Arial, sans-serif" font-size="57" font-weight="800">Continuity and Social</text>
+  <text x="110" y="385" fill="#f4f7fb" font-family="Arial, sans-serif" font-size="57" font-weight="800">Evolution Theory</text>
+  <text x="110" y="474" fill="#a9b7c8" font-family="Arial, sans-serif" font-size="27">Toby William Duffield · Preliminary investigation · 2026</text>
+  <rect x="110" y="512" width="224" height="5" rx="2.5" fill="url(#g)"/>
+</svg>
