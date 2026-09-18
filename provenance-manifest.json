@@ -1,0 +1,87 @@
+{
+  "release": "2026.09.18-r1",
+  "domain": "https://asultd.com",
+  "generated": "2026-09-18",
+  "files": [
+    {
+      "path": ".github/workflows/validate.yml",
+      "sha256": "f2815e160d573e9c93a717caa292b45eba41b760b6f25c8878975fae099ebb55",
+      "bytes": 300
+    },
+    {
+      "path": ".well-known/security.txt",
+      "sha256": "38c4170ab536a735cf7a8a5fa6c0cd22476d1a596a4e1327f47ae345d93da8ef",
+      "bytes": 149
+    },
+    {
+      "path": "404.html",
+      "sha256": "989e0facd908496e5b821cd63a00b614743579192396e45053887fe8de9f4961",
+      "bytes": 655
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "7323ba31c08ccee23dc8b0584c15cd01f0caaad980da392c17dc7bb8073fe849",
+      "bytes": 258
+    },
+    {
+      "path": "CNAME",
+      "sha256": "8b53f791df565e88b5a724a2c792184e67c85ae7e10a029547f05e039bf648d2",
+      "bytes": 11
+    },
+    {
+      "path": "VERSION.txt",
+      "sha256": "9d1dc8ef5f4cfdc48700c58dfb72f12d5a80a7c70b228fa3cb6ad8ea956688b9",
+      "bytes": 70
+    },
+    {
+      "path": "assets/favicon.svg",
+      "sha256": "d11a687f8f0e32cfb9a1943bc2a00f445777c4c555fe6f279e80f2f08093c7c4",
+      "bytes": 347
+    },
+    {
+      "path": "assets/social-card.svg",
+      "sha256": "8ed0dbd316ce593837b2a54ff1a4a8a488bc423a4fcfde510b1045def7c7cae7",
+      "bytes": 1360
+    },
+    {
+      "path": "citation.html",
+      "sha256": "9eb77e7ba89cf98b591baea0fbca03df4b2a1bc91a5d959e39094868b7b047f1",
+      "bytes": 2896
+    },
+    {
+      "path": "corrections.html",
+      "sha256": "029714eacab225b76636c0d30171b3f5523ed331931c0e4022691361953e6fd5",
+      "bytes": 3068
+    },
+    {
+      "path": "index.html",
+      "sha256": "0ef81e68292b33be9a5c4e64dd1ecfb4b114433a4140eb963fd27e052875e568",
+      "bytes": 17674
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "2bc12ecbd8ec764eff037240a5785adbb0204b1325567d1545bfa395976c69d0",
+      "bytes": 63
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "75ec8139f182248674e40fae4a29e35e29cfc1e3aa84d2fc53b0e2371afe5e62",
+      "bytes": 443
+    },
+    {
+      "path": "sources.html",
+      "sha256": "3e3f68995c620d540276c669004003bcfce8cc15b498f5f10633c14df58ed60a",
+      "bytes": 4950
+    },
+    {
+      "path": "styles.css",
+      "sha256": "e5386863a3c593c9f40aa5cc7978bf6abaeea468dd12e5046bf112352be78510",
+      "bytes": 11883
+    },
+    {
+      "path": "validate_site.py",
+      "sha256": "af208f1063e98cb5e3b833864c194bf167f7ea6524ba895b793ef21924e12f15",
+      "bytes": 2007
+    }
+  ]
+}
