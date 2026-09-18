@@ -1,8 +1,8 @@
 {
-  "release": "2026.09.18-r2",
+  "release": "2026.09.18-r3",
   "domain": "https://asultd.com",
   "generated": "2026-09-18",
-  "scope": "Stage III additive public release",
+  "scope": "Complete additive website release with corrected domain and browser icon set",
   "files": [
     {
       "path": ".github/workflows/validate.yml",
@@ -16,8 +16,8 @@
     },
     {
       "path": "404.html",
-      "sha256": "989e0facd908496e5b821cd63a00b614743579192396e45053887fe8de9f4961",
-      "bytes": 655
+      "sha256": "0baafd4cd278988d1237478ac36cb7618846cfcc369386f1f0c55d7e9e2f2a47",
+      "bytes": 973
     },
     {
       "path": "CHANGELOG.md",
@@ -40,6 +40,21 @@
       "bytes": 14
     },
     {
+      "path": "android-chrome-192x192.png",
+      "sha256": "9492b2ca4687764f535b3737828b65bb6aca667435a2c7bba9221008eed8f52d",
+      "bytes": 5813
+    },
+    {
+      "path": "android-chrome-512x512.png",
+      "sha256": "273d87dd5393ea89d031b16021d13c9edd48cea8f474e1b5b5c7f6ee56a8a62b",
+      "bytes": 19251
+    },
+    {
+      "path": "apple-touch-icon.png",
+      "sha256": "9f233f992a9c826479dd7e711ed9d385f53c1122052295846d3c88174cac1fd8",
+      "bytes": 5495
+    },
+    {
       "path": "assets/favicon.svg",
       "sha256": "d11a687f8f0e32cfb9a1943bc2a00f445777c4c555fe6f279e80f2f08093c7c4",
       "bytes": 347
@@ -51,23 +66,43 @@
     },
     {
       "path": "citation.html",
-      "sha256": "9eb77e7ba89cf98b591baea0fbca03df4b2a1bc91a5d959e39094868b7b047f1",
-      "bytes": 2896
+      "sha256": "48a5ac62df3823242e3e8c674f61c2339d57a96fbfd3961676fdc1f9c673e3a0",
+      "bytes": 3218
     },
     {
       "path": "corrections.html",
-      "sha256": "029714eacab225b76636c0d30171b3f5523ed331931c0e4022691361953e6fd5",
-      "bytes": 3068
+      "sha256": "5a9450afaf343801032e630adfafe6d2142ab1772cdd2e39708f1a6e6b000e1f",
+      "bytes": 3390
+    },
+    {
+      "path": "favicon-16x16.png",
+      "sha256": "94ec48bd6cc84608f3869352b603df080c941366c9dccf0a801f40b54aee5a1a",
+      "bytes": 471
+    },
+    {
+      "path": "favicon-32x32.png",
+      "sha256": "a8b2bddf6c2900693f3cf1eb901d0bd4d957d107aa85fa334bc4a9caef1265dd",
+      "bytes": 968
+    },
+    {
+      "path": "favicon.ico",
+      "sha256": "5b0755ebb4499dfbdfa50135c6ea6c23c9320ee7637feac2f3dd1eb142051d9e",
+      "bytes": 5430
     },
     {
       "path": "index.html",
-      "sha256": "ee4f5f58f7b3529ee38e0ae04b3aac85839f22bf747de39adf19daa384376cfc",
-      "bytes": 19130
+      "sha256": "e64f7cc7176b376c5dd60237da585fca9fcfb048c4c340897605fd3db253fe2d",
+      "bytes": 19456
     },
     {
       "path": "robots.txt",
       "sha256": "2bc12ecbd8ec764eff037240a5785adbb0204b1325567d1545bfa395976c69d0",
       "bytes": 63
+    },
+    {
+      "path": "site.webmanifest",
+      "sha256": "56b2acfba994c19dfd1ea4bcecca139d8d759c7a1e083a0d0757a25e67a71220",
+      "bytes": 492
     },
     {
       "path": "sitemap.xml",
@@ -76,8 +111,8 @@
     },
     {
       "path": "sources.html",
-      "sha256": "3e3f68995c620d540276c669004003bcfce8cc15b498f5f10633c14df58ed60a",
-      "bytes": 4950
+      "sha256": "ca1fdcfcfcf5a49832b1e20401042a6f81751033f273b1802aa33ab093fa5b87",
+      "bytes": 5272
     },
     {
       "path": "styles.css",

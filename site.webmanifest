@@ -1,0 +1,22 @@
+{
+  "name": "ASU LTD",
+  "short_name": "ASU LTD",
+  "description": "Intergenerational Goal Continuity and Social Evolution Theory",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07111c",
+  "theme_color": "#07111c",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
