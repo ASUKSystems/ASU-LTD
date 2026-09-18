@@ -1,8 +1,9 @@
 {
   "release": "2026.09.18-r3",
+  "phase": "Phase 3",
   "domain": "https://asultd.com",
   "generated": "2026-09-18",
-  "scope": "Complete additive website release with corrected domain and browser icon set",
+  "scope": "Complete Phase 3 additive website release",
   "files": [
     {
       "path": ".github/workflows/validate.yml",
@@ -21,8 +22,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "b9b919c1741dc730afa764ccb5ce38d7e27f3e942cf9554124934a3db1f1dcd9",
-      "bytes": 521
+      "sha256": "5429fb0752860bcca7cc885f0bbffb5416db0ba7016719c1378d20c518c05b66",
+      "bytes": 860
     },
     {
       "path": "CNAME",
@@ -30,13 +31,13 @@
       "bytes": 11
     },
     {
-      "path": "README-STAGE-III-PUSH.txt",
-      "sha256": "ed2cb7825c3037f4c8596b65b22d33e5a737d77402786368e7f491e10581c311",
-      "bytes": 876
+      "path": "README-PHASE-3-PUSH.txt",
+      "sha256": "1527b1858799a669783168be4cfc024cb7153dc37e84022cc37f65b4e3812e15",
+      "bytes": 872
     },
     {
       "path": "VERSION.txt",
-      "sha256": "236eb7d6c808ee30988cbdcb205243d172eeb81947b70174c4a592e3861a5827",
+      "sha256": "92ef0bfb5cfa8aae15740da9e49cbae21e9a0de49be7f884e8e2e85ef47804a0",
       "bytes": 14
     },
     {
@@ -91,8 +92,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "e64f7cc7176b376c5dd60237da585fca9fcfb048c4c340897605fd3db253fe2d",
-      "bytes": 19456
+      "sha256": "fac7fd0a8002cc08c5e33f61868690e5dceae311c4be4519085cd70efe2d7e35",
+      "bytes": 19705
     },
     {
       "path": "robots.txt",

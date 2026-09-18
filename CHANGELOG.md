@@ -1,3 +1,12 @@
+# Phase 3 aligned release
+
+## 2026.09.18-r3
+
+- Aligned the complete connected website set to Phase 3.
+- Corrected the immigration canonical domain across all connected sites.
+- Added PNG, ICO, Apple touch and web-app icons for broader browser support.
+- Preserved earlier phases, versions and public information in the historical record.
+
 # Stage III release
 
 ## 2026.09.18-r2
