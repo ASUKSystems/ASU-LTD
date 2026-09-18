@@ -3,17 +3,12 @@
   "phase": "Phase 3",
   "domain": "https://asultd.com",
   "generated": "2026-09-18",
-  "scope": "Complete Phase 3 additive website release",
+  "scope": "Complete Phase 3 additive website release with corrective privacy/identity pass",
   "files": [
     {
-      "path": ".github/workflows/validate.yml",
-      "sha256": "f2815e160d573e9c93a717caa292b45eba41b760b6f25c8878975fae099ebb55",
-      "bytes": 300
-    },
-    {
       "path": ".well-known/security.txt",
-      "sha256": "38c4170ab536a735cf7a8a5fa6c0cd22476d1a596a4e1327f47ae345d93da8ef",
-      "bytes": 149
+      "sha256": "ad333ab036f1a56737f88d5f1815b75b80d4fd7d0d5711e8def99164568c7e0d",
+      "bytes": 148
     },
     {
       "path": "404.html",
@@ -22,8 +17,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "5429fb0752860bcca7cc885f0bbffb5416db0ba7016719c1378d20c518c05b66",
-      "bytes": 860
+      "sha256": "0f34eae990cdddd82a8b1c5c0dde97284e76439159f4884fcecaf45f434cd856",
+      "bytes": 994
     },
     {
       "path": "CNAME",
@@ -32,8 +27,8 @@
     },
     {
       "path": "README-PHASE-3-PUSH.txt",
-      "sha256": "1527b1858799a669783168be4cfc024cb7153dc37e84022cc37f65b4e3812e15",
-      "bytes": 872
+      "sha256": "f7f03ae7e069b3f8db9ece3ec3bf02bdf4399664de0040b79a05a5f67ca9c185",
+      "bytes": 898
     },
     {
       "path": "VERSION.txt",
@@ -72,8 +67,8 @@
     },
     {
       "path": "corrections.html",
-      "sha256": "5a9450afaf343801032e630adfafe6d2142ab1772cdd2e39708f1a6e6b000e1f",
-      "bytes": 3390
+      "sha256": "9142a0a494c79d96813c067a9cb5cf515e083842ab6bb081349ae0f0d935ac0d",
+      "bytes": 3388
     },
     {
       "path": "favicon-16x16.png",
@@ -92,8 +87,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "fac7fd0a8002cc08c5e33f61868690e5dceae311c4be4519085cd70efe2d7e35",
-      "bytes": 19705
+      "sha256": "8dda345db8ab6d8c54413001de1f4ba08d6ba2c8ec1685ad838f13f19ff3c074",
+      "bytes": 19700
     },
     {
       "path": "robots.txt",

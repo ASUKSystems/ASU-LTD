@@ -1,4 +1,5 @@
 # Phase 3 aligned release
+- Corrective privacy/identity pass: removed unrelated internal-system contact details and aligned public correspondence with ASU LTD.
 
 ## 2026.09.18-r3
 
